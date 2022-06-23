@@ -3,8 +3,8 @@
 With Mollie Payments for PrestaShop, you can offer [a wide range of
 payment methods](available-payment-methods) in your shop. After connecting the module to your Mollie
 account, it retrieves and lists the payment methods active in your
-Mollie Dashboard. To add them to your shop, you must enable them in your
-PrestaShop Dashboard as well.
+Mollie Dashboard. To add them to your shop's checkout, you must enable them in
+PrestaShop as well.
 
 ## Before you start
 
@@ -13,7 +13,7 @@ PrestaShop Dashboard as well.
 
 ## Enable a payment method
 
-1. Log in to your PrestaShop Dashboard and select **Mollie** in the left
+1. Log in to PrestaShop and select **Mollie** in the left
 navigation panel. This opens the **General settings** configuration tab.
 2. Scroll down to **Payment methods**.
 3. Click a payment method to expand it.
@@ -55,7 +55,7 @@ they're working as intended.
 
 ## Disable a payment method
 
-1. Log in to your PrestaShop Dashboard and select **Mollie** in the left
+1. Log in to PrestaShop and select **Mollie** in the left
 navigation panel. This opens the **General settings** configuration tab.
 2. Scroll down to **Payment methods**.
 3. Click a payment method to expand it.
