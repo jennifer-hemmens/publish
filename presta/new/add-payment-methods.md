@@ -49,7 +49,7 @@ as needed:
     local legislation before applying a surcharge.
 6. Scroll down to the bottom of the page and click **Save**.
 
-After enabling your payment methods, you can [run test
+After enabling your payment methods, you can drag-and-drop them to change their display order in your checkout, and you can [run test
 payments](run-test-payments) to make sure
 they're working as intended.
 
