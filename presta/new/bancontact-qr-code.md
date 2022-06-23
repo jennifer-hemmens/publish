@@ -3,13 +3,15 @@
 Bancontact offers customers that use their app a quick way to pay by
 scanning a QR code, which you can make available in your shop.
 
+> The Bancontact QR code only works with [Payments API](https://docs.mollie.com/reference/v2/payments-api/overview) and in live mode.
+
 ## Before you start
 
   - Make sure that Bancontact is active in your Mollie Dashboard.
 
 ## Enable the Bancontact QR code
 
-1. Log in to your PrestaShop Dashboard and select **Mollie** in the left
+1. Log in to PrestaShop and select **Mollie** in the left
 navigation panel. This opens the **General settings** configuration tab.
 2. Scroll down to **Payment methods**.
 3. Click Bancontact to open its settings.
