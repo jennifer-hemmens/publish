@@ -10,7 +10,7 @@ whether it works using a real transaction.
 
 ## Check whether the Bancontact QR code works
 
-1. Log in to your PrestaShop Dashboard and select Mollie in the left
+1. Log in to PrestaShop and select Mollie in the left
 navigation panel. This opens the **General settings** configuration tab.
 2. Select **Live** in the **Environment** dropdown and click **Save** at the bottom of
 the page.
